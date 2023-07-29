@@ -1,0 +1,7 @@
+DevOps
+ReactJS
+AWS
+Docker
+Sonar Qube
+Kubernetes
+Maven
